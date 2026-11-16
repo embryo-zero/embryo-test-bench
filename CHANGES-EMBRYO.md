@@ -5,3 +5,4 @@ Forked from v2.1.0 (commit e85fae9) on 2026-11-16. All changes are on the `embry
 | Date | Files | Change |
 |---|---|---|
 | 2026-11-16 | EMBRYO.md, LEGAL.md, CHANGES-EMBRYO.md (new) | Fork notes, legal notes and this list. No original file changed yet. |
+| 2026-11-16 | README.md | Embryo name at the top; the original README follows unchanged |

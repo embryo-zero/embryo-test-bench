@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Test Bench
+
+**Embryo Test Bench** is Embryo-Zero's fork of [cocotb](https://github.com/cocotb/cocotb), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 **cocotb** is a framework empowering users to write VHDL and Verilog testbenches in Python.
 
 [![Documentation Status](https://readthedocs.org/projects/cocotb/badge/?version=development)](https://docs.cocotb.org/en/stable/)
